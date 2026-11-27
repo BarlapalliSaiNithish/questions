@@ -11,8 +11,6 @@ c = int(input())
 if a > b and a > c :
     print("a is the greatest number")
 elif b > a and b > c :
-    print("B is the greatest number")
+    print("b is the greate number")
 else :
-    print("c is the greatest number")
-
-    
+    print("c is the greater number")
